@@ -1,12 +1,12 @@
 print ("Hello World")		#print hello world
 
 a = 5+6 					#*************
-print (a)					#declaring the variable
+print ('a = 5 + 6 ----->', a)					#declaring the variable
 b = 10 + a 					#using the variable
-print (b)  					#printing the variable
+print ('b = 10 + a ----->', b)  					#printing the variable
 
-print ('Spam Eggs') 		#normal print
-print ("'Spam Eggs'") 		#it will print with single quote
+print ("print ('Spam Eggs') ----->", 'Spam Eggs') 		#normal print
+print ("print ("'Spam Eggs'") ----->", "'Spam Eggs'") 		#it will print with single quote
 print('"hello"') 			#print string with double quote
 
 #print ('doesn't') this will throw error
