@@ -49,3 +49,36 @@ print(word[2:42]) #Out of index range is handled gracefully
 print('J' + word[1:]) #can build a new string
 print('J' + word[-7])
 print(len(word)) #length of the string
+print(word[:]) #This will return new copy of string
+
+#List Demo
+square = [1, 4, 9, 16, 25] #Creating the list
+print(square)
+print(square[0]) #Indexing
+print(square[-1])
+print(square[-3:]) #Slicing the list
+print(square[:]) #this will return new copy of list
+print(square + [36,49,64,81,100]) #List Concatenation
+cube = [1, 8, 27, 16] #List are mutable 
+print(cube)
+cube[3] = 16*4 #Inserting the correct value at 3 postion
+print(cube)
+cube.append(125) #appending the cube
+print(cube)
+cube.append(6**3)
+print(cube)
+print(len(cube))
+#More on list and Slices
+letters = ['a', 'b', 'c', 'd', 'e', 'f']
+print(letters)
+letters[2:5] = ['C', 'D', 'E'] #replace the contents of the list
+print(letters)
+letters[2:5] = [] #remove the letters from the list
+print(letters)
+letters[:] = [] #clear the entire list
+print(letters)
+letters = ['a', 'b', 'c', 'd', 'e', 'f']
+nested = [square, cube, letters]
+print(nested)
+print(nested[0])
+print(nested[1],nested[2])
