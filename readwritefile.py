@@ -1,6 +1,6 @@
 a = open('abc.txt', 'r+')
 read = a.readlines()
 print('First line of the file: ',read[0])
-a.write('1234')
-a.read()
+#a.write('1234')
+a.readlines()
 print(a)
