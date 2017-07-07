@@ -10,5 +10,5 @@ for row in range(max_nb_row) :
     for sheet in book.sheets() :
        if row < sheet.nrows :
            print(sheet.nrows)
-           a = sheet.row(row)
+           a = str(sheet.row(row))
            print(a)
