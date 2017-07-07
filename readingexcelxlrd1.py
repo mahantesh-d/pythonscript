@@ -30,5 +30,5 @@ for row_idx in range(0, xl_sheet.ncols):
     print('Rows: %s' %row_idx)
     for col_idx in range(0, num_cols):
         cell_obj = xl_sheet.cell(row_idx, col_idx)
-        print('Column: [%s] cell_obj: [%s]' %(col_idx, cell_obj))
+        print('Column: [%s] cell_obj: [%s]' %(col_idx, cell_obj.value))
 
