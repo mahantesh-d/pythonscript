@@ -1,0 +1,7 @@
+[your-config]
+path1 : D:\test1\first
+path2 : D:\test2\second
+path3 : D:\test2\third
+path4 : D:\test1\first
+path5 : D:\test1\first
+path6 : D:\test1\first
