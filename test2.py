@@ -21,7 +21,7 @@ def concatenate(a): #Concatenate the output from the excel to 'http://'
     print(b)
 
 #-------------------------------------------------------------------------------------
-
+x = first_sheet.nrows
 for i in range(1,x):        #Iterating over the rows and getting the values
     #con = "".join(str(x) for x in first_sheet.row_values(i))        #Combining the the values of the list
     aa = first_sheet.row_values(i)[4]
