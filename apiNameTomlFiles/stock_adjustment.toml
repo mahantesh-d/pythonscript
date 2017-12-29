@@ -1,0 +1,6 @@
+[stock_adjustment]
+	update_filter = "adjustDateTime_end"
+	get_filter = "adjustDateTime_end"
+	delete_filter = "adjustDateTime_end"
+	update_payload = 
+	post_payload = 

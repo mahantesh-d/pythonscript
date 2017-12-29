@@ -1,0 +1,6 @@
+[location_ship_to]
+	update_filter = "shipToCode_key1"
+	get_filter = "shipToCode_key1"
+	delete_filter = "shipToCode_key1"
+	update_payload = 
+	post_payload = 

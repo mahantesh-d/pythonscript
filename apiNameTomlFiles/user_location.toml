@@ -1,0 +1,6 @@
+[user_location]
+	update_filter = "locationCode_key1"
+	get_filter = "locationCode_key1"
+	delete_filter = "locationCode_key1"
+	update_payload = 
+	post_payload = 

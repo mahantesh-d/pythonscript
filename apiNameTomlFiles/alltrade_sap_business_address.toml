@@ -1,0 +1,6 @@
+[alltrade_sap_business_address]
+	update_filter = "addr1_data"
+	get_filter = "addr1_data"
+	delete_filter = "addr1_data"
+	update_payload = 
+	post_payload = 

@@ -1,0 +1,6 @@
+[schedule_report]
+	update_filter = "reportDate_key2"
+	get_filter = "reportDate_key2"
+	delete_filter = "reportDate_key2"
+	update_payload = 
+	post_payload = 

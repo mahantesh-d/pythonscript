@@ -1,0 +1,6 @@
+[alltrade_exclude_sub_stock]
+	update_filter = "subStock_key1"
+	get_filter = "subStock_key1"
+	delete_filter = "subStock_key1"
+	update_payload = 
+	post_payload = 

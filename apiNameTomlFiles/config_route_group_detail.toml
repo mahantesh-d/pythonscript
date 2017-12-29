@@ -1,0 +1,6 @@
+[config_route_group_detail]
+	update_filter = "dayOfWeek_data"
+	get_filter = "dayOfWeek_data"
+	delete_filter = "dayOfWeek_data"
+	update_payload = 
+	post_payload = 

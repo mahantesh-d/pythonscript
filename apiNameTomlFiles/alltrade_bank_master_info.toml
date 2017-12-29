@@ -1,0 +1,6 @@
+[alltrade_bank_master_info]
+	update_filter = "bankNameTh_data"
+	get_filter = "bankNameTh_data"
+	delete_filter = "bankNameTh_data"
+	update_payload = 
+	post_payload = 

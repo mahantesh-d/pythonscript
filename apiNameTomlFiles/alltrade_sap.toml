@@ -1,0 +1,6 @@
+[alltrade_sap]
+	update_filter = "sapType_data"
+	get_filter = "sapType_data"
+	delete_filter = "sapType_data"
+	update_payload = 
+	post_payload = 

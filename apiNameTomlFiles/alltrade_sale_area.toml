@@ -1,0 +1,6 @@
+[alltrade_sale_area]
+	update_filter = "type_data"
+	get_filter = "type_data"
+	delete_filter = "type_data"
+	update_payload = 
+	post_payload = 

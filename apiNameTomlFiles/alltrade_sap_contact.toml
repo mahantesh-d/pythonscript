@@ -1,0 +1,6 @@
+[alltrade_sap_contact]
+	update_filter = "name_data"
+	get_filter = "name_data"
+	delete_filter = "name_data"
+	update_payload = 
+	post_payload = 

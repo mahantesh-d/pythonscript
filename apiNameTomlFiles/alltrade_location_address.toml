@@ -1,0 +1,6 @@
+[alltrade_location_address]
+	update_filter = "addressType_key1"
+	get_filter = "addressType_key1"
+	delete_filter = "addressType_key1"
+	update_payload = 
+	post_payload = 

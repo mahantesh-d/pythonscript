@@ -1,0 +1,6 @@
+[alltrade_vat_address]
+	update_filter = "ownerLocationCode_data"
+	get_filter = "ownerLocationCode_data"
+	delete_filter = "ownerLocationCode_data"
+	update_payload = 
+	post_payload = 

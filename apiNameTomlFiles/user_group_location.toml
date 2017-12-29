@@ -1,0 +1,6 @@
+[user_group_location]
+	update_filter = "groupLocationName_key1"
+	get_filter = "groupLocationName_key1"
+	delete_filter = "groupLocationName_key1"
+	update_payload = 
+	post_payload = 

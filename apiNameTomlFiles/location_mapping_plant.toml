@@ -1,0 +1,6 @@
+[location_mapping_plant]
+	update_filter = "company_key1"
+	get_filter = "company_key1"
+	delete_filter = "company_key1"
+	update_payload = 
+	post_payload = 

@@ -1,0 +1,6 @@
+[alltrade_party_sap]
+	update_filter = "licenseCode_key1"
+	get_filter = "licenseCode_key1"
+	delete_filter = "licenseCode_key1"
+	update_payload = 
+	post_payload = 

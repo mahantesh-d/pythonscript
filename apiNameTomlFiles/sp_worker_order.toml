@@ -1,0 +1,6 @@
+[sp_worker_order]
+	update_filter = "cancelled"
+	get_filter = "cancelled"
+	delete_filter = "cancelled"
+	update_payload = 
+	post_payload = 

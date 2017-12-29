@@ -1,0 +1,6 @@
+[location]
+	update_filter = "locationName_data"
+	get_filter = "locationName_data"
+	delete_filter = "locationName_data"
+	update_payload = 
+	post_payload = 

@@ -1,0 +1,6 @@
+[alltrade_sale_person]
+	update_filter = "personCode_key1"
+	get_filter = "personCode_key1"
+	delete_filter = "personCode_key1"
+	update_payload = 
+	post_payload = 

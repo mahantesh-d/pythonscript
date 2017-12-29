@@ -1,0 +1,6 @@
+[alltrade_person_pa_group]
+	update_filter = "paGroupId_key1"
+	get_filter = "paGroupId_key1"
+	delete_filter = "paGroupId_key1"
+	update_payload = 
+	post_payload = 

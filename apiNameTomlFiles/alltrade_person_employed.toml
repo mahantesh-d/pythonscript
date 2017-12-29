@@ -1,0 +1,6 @@
+[alltrade_person_employed]
+	update_filter = "entryDt_data"
+	get_filter = "entryDt_data"
+	delete_filter = "entryDt_data"
+	update_payload = 
+	post_payload = 

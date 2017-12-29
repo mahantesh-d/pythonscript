@@ -1,0 +1,6 @@
+[alltrade_pa_group]
+	update_filter = "paGroupCode_data"
+	get_filter = "paGroupCode_data"
+	delete_filter = "paGroupCode_data"
+	update_payload = 
+	post_payload = 

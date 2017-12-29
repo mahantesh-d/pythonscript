@@ -1,0 +1,6 @@
+[alltrade_address]
+	update_filter = "engFlg_data"
+	get_filter = "engFlg_data"
+	delete_filter = "engFlg_data"
+	update_payload = 
+	post_payload = 

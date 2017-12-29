@@ -1,0 +1,6 @@
+[alltrade_auto_generate_report]
+	update_filter = "reportName"
+	get_filter = "reportName"
+	delete_filter = "reportName"
+	update_payload = 
+	post_payload = 

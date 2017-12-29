@@ -1,0 +1,7 @@
+[alltrade_organization]
+	update_filter = "parentOrgCode_data"
+	get_filter = "parentOrgCode_data"
+	delete_filter = "parentOrgCode_data"
+	update_payload = ""
+	post_payload =
+

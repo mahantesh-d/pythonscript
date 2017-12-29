@@ -1,0 +1,6 @@
+[alltrade_channel_org]
+	update_filter = "hrOrgCode_key1"
+	get_filter = "hrOrgCode_key1"
+	delete_filter = "hrOrgCode_key1"
+	update_payload = 
+	post_payload = 

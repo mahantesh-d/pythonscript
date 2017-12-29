@@ -1,0 +1,6 @@
+[alltrade_product_group]
+	update_filter = "productGroupName_data"
+	get_filter = "productGroupName_data"
+	delete_filter = "productGroupName_data"
+	update_payload = 
+	post_payload = 

@@ -1,0 +1,6 @@
+[stamp_delivery]
+	update_filter = "intervalTimeEnd_key2"
+	get_filter = "intervalTimeEnd_key2"
+	delete_filter = "intervalTimeEnd_key2"
+	update_payload = 
+	post_payload = 

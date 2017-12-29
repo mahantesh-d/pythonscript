@@ -1,0 +1,6 @@
+[user_component]
+	update_filter = "updateDateTime_key3"
+	get_filter = "updateDateTime_key3"
+	delete_filter = "updateDateTime_key3"
+	update_payload = 
+	post_payload = 

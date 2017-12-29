@@ -1,0 +1,6 @@
+[alltrade_zip_code]
+	update_filter = "zipCode_data"
+	get_filter = "zipCode_data"
+	delete_filter = "zipCode_data"
+	update_payload = 
+	post_payload = 

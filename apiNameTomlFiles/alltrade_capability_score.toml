@@ -1,0 +1,6 @@
+[alltrade_capability_score]
+	update_filter = "surveyId_key1"
+	get_filter = "surveyId_key1"
+	delete_filter = "surveyId_key1"
+	update_payload = 
+	post_payload = 

@@ -1,0 +1,6 @@
+[menu]
+	update_filter = "mainMenu_data"
+	get_filter = "mainMenu_data"
+	delete_filter = "mainMenu_data"
+	update_payload = 
+	post_payload = 

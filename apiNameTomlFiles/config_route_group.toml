@@ -1,0 +1,6 @@
+[config_route_group]
+	update_filter = "intervalTimeEnd_key3"
+	get_filter = "intervalTimeEnd_key3"
+	delete_filter = "intervalTimeEnd_key3"
+	update_payload = 
+	post_payload = 

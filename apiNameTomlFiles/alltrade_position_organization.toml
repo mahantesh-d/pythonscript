@@ -1,0 +1,6 @@
+[alltrade_position_organization]
+	update_filter = "position_key1"
+	get_filter = "position_key1"
+	delete_filter = "position_key1"
+	update_payload = 
+	post_payload = 

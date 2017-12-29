@@ -1,0 +1,6 @@
+[alltrade_person_capability]
+	update_filter = "capabilityId_key1"
+	get_filter = "capabilityId_key1"
+	delete_filter = "capabilityId_key1"
+	update_payload = 
+	post_payload = 

@@ -1,0 +1,6 @@
+[supplier_master]
+	update_filter = "supplierName_data"
+	get_filter = "supplierName_data"
+	delete_filter = "supplierName_data"
+	update_payload = 
+	post_payload = 

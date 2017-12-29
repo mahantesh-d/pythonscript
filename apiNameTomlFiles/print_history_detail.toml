@@ -1,0 +1,6 @@
+[print_history_detail]
+	update_filter = "printResult"
+	get_filter = "printResult"
+	delete_filter = "printResult"
+	update_payload = 
+	post_payload = 

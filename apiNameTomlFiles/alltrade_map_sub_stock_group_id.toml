@@ -1,0 +1,6 @@
+[alltrade_map_sub_stock_group_id]
+	update_filter = "locationSubType_key1"
+	get_filter = "locationSubType_key1"
+	delete_filter = "locationSubType_key1"
+	update_payload = 
+	post_payload = 

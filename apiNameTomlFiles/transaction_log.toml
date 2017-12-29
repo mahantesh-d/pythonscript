@@ -1,0 +1,6 @@
+[transaction_log]
+	update_filter = "baNo"
+	get_filter = "baNo"
+	delete_filter = "baNo"
+	update_payload = 
+	post_payload = 

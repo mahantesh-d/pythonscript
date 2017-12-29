@@ -1,4 +1,4 @@
-a = open('abc.txt', 'r+')
+a = open('abc1.txt', 'r+')
 read = a.readlines()
 print('First line of the file: ',read[0])
 #a.write('1234')

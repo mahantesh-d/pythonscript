@@ -1,0 +1,6 @@
+[alltrade_service_group]
+	update_filter = "serviceGroupName_data"
+	get_filter = "serviceGroupName_data"
+	delete_filter = "serviceGroupName_data"
+	update_payload = 
+	post_payload = 

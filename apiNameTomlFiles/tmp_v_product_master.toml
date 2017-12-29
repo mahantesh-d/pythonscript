@@ -1,0 +1,6 @@
+[tmp_v_product_master]
+	update_filter = "brand_key6"
+	get_filter = "brand_key6"
+	delete_filter = "brand_key6"
+	update_payload = 
+	post_payload = 

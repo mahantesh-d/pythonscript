@@ -1,0 +1,6 @@
+[local_service_requests]
+	update_filter = "Bwoid"
+	get_filter = "Bwoid"
+	delete_filter = "Bwoid"
+	update_payload = 
+	post_payload = 

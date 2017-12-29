@@ -1,0 +1,6 @@
+[check_stock_detail]
+	update_filter = "commercialName_key"
+	get_filter = "commercialName_key"
+	delete_filter = "commercialName_key"
+	update_payload = 
+	post_payload = 

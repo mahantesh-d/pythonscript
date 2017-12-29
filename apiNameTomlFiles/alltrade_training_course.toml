@@ -1,0 +1,6 @@
+[alltrade_training_course]
+	update_filter = "courseCode_data"
+	get_filter = "courseCode_data"
+	delete_filter = "courseCode_data"
+	update_payload = 
+	post_payload = 

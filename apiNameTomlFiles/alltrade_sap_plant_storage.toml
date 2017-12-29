@@ -1,0 +1,6 @@
+[alltrade_sap_plant_storage]
+	update_filter = "sapInterCompany_key1"
+	get_filter = "sapInterCompany_key1"
+	delete_filter = "sapInterCompany_key1"
+	update_payload = 
+	post_payload = 

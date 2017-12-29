@@ -1,0 +1,6 @@
+[alltrade_party_address]
+	update_filter = "companyId_key0"
+	get_filter = "companyId_key0"
+	delete_filter = "companyId_key0"
+	update_payload = 
+	post_payload = 

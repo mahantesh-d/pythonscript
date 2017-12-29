@@ -1,0 +1,6 @@
+[alltrade_opening_hours]
+	update_filter = "openingHours_key1"
+	get_filter = "openingHours_key1"
+	delete_filter = "openingHours_key1"
+	update_payload = 
+	post_payload = 

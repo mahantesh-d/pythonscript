@@ -1,0 +1,6 @@
+[substock]
+	update_filter = "subStock_data"
+	get_filter = "subStock_data"
+	delete_filter = "subStock_data"
+	update_payload = 
+	post_payload = 

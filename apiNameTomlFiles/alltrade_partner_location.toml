@@ -1,0 +1,6 @@
+[alltrade_partner_location]
+	update_filter = "companyId_key1"
+	get_filter = "companyId_key1"
+	delete_filter = "companyId_key1"
+	update_payload = 
+	post_payload = 

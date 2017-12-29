@@ -1,0 +1,6 @@
+[location_sub_stock]
+	update_filter = "subStock_key2"
+	get_filter = "subStock_key2"
+	delete_filter = "subStock_key2"
+	update_payload = 
+	post_payload = 

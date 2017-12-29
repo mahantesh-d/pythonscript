@@ -1,0 +1,6 @@
+[alltrade_mapping_region]
+	update_filter = "sapProvinceCode_data"
+	get_filter = "sapProvinceCode_data"
+	delete_filter = "sapProvinceCode_data"
+	update_payload = 
+	post_payload = 

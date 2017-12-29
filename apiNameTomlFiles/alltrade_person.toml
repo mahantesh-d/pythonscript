@@ -1,0 +1,6 @@
+[alltrade_person]
+	update_filter = "idType_data"
+	get_filter = "idType_data"
+	delete_filter = "idType_data"
+	update_payload = 
+	post_payload = 

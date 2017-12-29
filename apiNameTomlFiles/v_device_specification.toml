@@ -1,0 +1,6 @@
+[v_device_specification]
+	update_filter = "gprs_data"
+	get_filter = "gprs_data"
+	delete_filter = "gprs_data"
+	update_payload = 
+	post_payload = 
